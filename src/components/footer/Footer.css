@@ -1,0 +1,14 @@
+.WholeBlock{
+    display: flex;
+}
+
+.Block{
+    margin-top: 100px;
+    margin-right: 65px;
+    background-color: #967EA1;
+    height: 350px;
+}
+
+.text{
+    text-align: center;   
+}
