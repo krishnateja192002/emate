@@ -17,4 +17,4 @@ Deploying into the cloud and make it available to use it from anywhere is under 
 
 #customer LoB
 | Application  | Contact HIG | Business hours |
----------------------------------------------
+|--------------|--------------|----------------|
