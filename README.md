@@ -14,3 +14,7 @@ Backend is also available which is in Nodejs.
 Introducing the VideoChat and the 'I'm Boring' section is the next primary goal
 
 Deploying into the cloud and make it available to use it from anywhere is under consideration.
+
+#customer LoB
+| Application  | Contact HIG | Business hours |
+---------------------------------------------
